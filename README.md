@@ -44,9 +44,3 @@ AI Resume Analyzer is a web-based application built using **Streamlit** and **Na
 ```bash
 pip install -r requirements.txt
 streamlit run app_streamlit.py
-
-**“add screenshot section”**  
-OR  
-**“make README premium level”**
-
-We’ll make it look like a **top GitHub project 🚀🔥**
