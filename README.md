@@ -45,25 +45,6 @@ AI Resume Analyzer is a web-based application built using **Streamlit** and **Na
 pip install -r requirements.txt
 streamlit run app_streamlit.py
 
-💼 Use Case
-
-This project helps job seekers:
-
-Optimize resumes for ATS systems
-Identify missing skills
-Improve chances of selection
-👨‍💻 Author
-
-Mitansh
-💻 AI & Software Enthusiast
-
-⭐ If you like this project
-
-Give it a ⭐ on GitHub!
-
----
-
-## 👉 Say:
 **“add screenshot section”**  
 OR  
 **“make README premium level”**
